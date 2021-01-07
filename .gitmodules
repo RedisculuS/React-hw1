@@ -1,3 +1,6 @@
 [submodule "React-hw1"]
 path = React-hw1
-url = https://github.com/RedisculuS/React-hw1/React-hw1
+url = https://github.com/RedisculuS/React-hw1
+[submodule "homework"]
+	path = homework
+	url = https://github.com/RedisculuS/React-hw1
